@@ -58,7 +58,6 @@ I’d love your feedback on these projects!
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=b1u3-b2&show_icons=true&locale=en" alt="samarpitabdas" style="margin: 10px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=b1u3-b2s&" alt="samarpitabdas" style="margin: 10px;"/>
 </div>
 
 <div align="center">
